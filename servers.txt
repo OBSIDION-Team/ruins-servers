@@ -1,4 +1,4 @@
-#name|ip|port
-RUINS - <color=blue>ds https://discord.gg/m3mGeNca</color> , <color=#00BFFF>tg @ruinsgame</color>|localhost|7777
-[<color=red>R<color=blue>U</color>S]RUINS - <color=blue>ds https://discord.gg/m3mGeNca</color> , <color=#00BFFF>tg @ruinsgame</color>|localhost|7777
+#name|ip|port|official (true/false)
+RUINS - <color=blue>ds https://discord.gg/m3mGeNca</color> , <color=#00BFFF>tg @ruinsgame</color>|localhost|7777|false
+[<color=red>R<color=blue>U</color>S]RUINS - <color=blue>ds https://discord.gg/m3mGeNca</color> , <color=#00BFFF>tg @ruinsgame</color>|localhost|7777|true
 
